@@ -8,4 +8,9 @@ vision (CV), audio and speech processing, chemistry, and life sciences; they can
 ![screenshot](Xmer.png)
 
 ## Reading
-[[2027 Vaswani et al.]](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+[2027 Vaswani et al.] [Attention is all you Need](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+
+### Description
+ In the notebook, we dive into the details of attention mechanism and implement self-attention layer and build our own transformer model from scratch.
+ 
+Happy Learning! :)
