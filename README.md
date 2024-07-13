@@ -6,3 +6,6 @@ their inception in 2017, and have been adopted in a substantial number of domain
 vision (CV), audio and speech processing, chemistry, and life sciences; they can achieve SOTA performances in the disciplines mentioned earlier.
 
 ![screenshot](Xmer.png)
+
+## Reading
+[[2027 Vaswani et al.]](https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
